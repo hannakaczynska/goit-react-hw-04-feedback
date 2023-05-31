@@ -1,0 +1,21 @@
+.feedbackTitle {
+    margin-left: 20px;
+}
+
+.buttonList {
+    display: flex;
+    gap: 15px;
+    margin-left: 50px;
+}
+
+.buttonGood {
+    background-color: green;
+}
+
+.buttonNeutral {
+    background-color: yellow;
+}
+
+.buttonBad {
+    background-color: red;
+}
